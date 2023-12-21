@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usman242410
 - 👀 I’m interested in ... Programming and Coding
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... C and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... antonyusman37@gmail.com
 
